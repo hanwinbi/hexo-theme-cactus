@@ -81,7 +81,7 @@ logo:
   enabled: true
   width: 50
   height: 50
-  url: /images/icon.png
+  url: /images/icon.jpg
   gravatar: false
   grayout: true
 
@@ -96,13 +96,13 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/icon.png
+    url: /images/icon.jpg
     gravatar: false
   android:
-    url: /images/icon.png
+    url: /images/icon.jpg
     gravatar: false
   apple:
-    url: /images/icon.png
+    url: /images/icon.jpg
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
